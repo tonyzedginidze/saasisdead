@@ -1,0 +1,33 @@
+name: Suggest a project
+description: Suggest an open-source alternative to a paid app.
+title: "Add: "
+labels: ["suggestion"]
+body:
+  - type: input
+    id: repo
+    attributes:
+      label: Project repository
+      placeholder: https://github.com/owner/repo
+    validations:
+      required: true
+  - type: input
+    id: replaces
+    attributes:
+      label: Paid product it replaces
+      placeholder: Notion, Slack, Figma...
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What it does
+      description: One plain sentence.
+    validations:
+      required: true
+  - type: checkboxes
+    id: bar
+    attributes:
+      label: Checks
+      options:
+        - label: It has an open-source or clearly marked source-available license.
+        - label: It has at least 1,000 stars (500 if under a year old) and recent commits.

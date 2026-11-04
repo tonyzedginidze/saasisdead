@@ -1,0 +1,87 @@
+[
+  {
+    "slug": "ai-and-agents",
+    "name": "AI & Agents",
+    "icon": "robot"
+  },
+  {
+    "slug": "productivity-and-notes",
+    "name": "Productivity & Notes",
+    "icon": "note-pencil"
+  },
+  {
+    "slug": "project-management",
+    "name": "Project Management",
+    "icon": "kanban"
+  },
+  {
+    "slug": "chat-and-meetings",
+    "name": "Chat & Meetings",
+    "icon": "chats-circle"
+  },
+  {
+    "slug": "design-and-media",
+    "name": "Design & Media",
+    "icon": "palette"
+  },
+  {
+    "slug": "developer-tools",
+    "name": "Developer Tools",
+    "icon": "terminal-window"
+  },
+  {
+    "slug": "hosting-and-infrastructure",
+    "name": "Hosting & Infrastructure",
+    "icon": "hard-drives"
+  },
+  {
+    "slug": "monitoring-and-logs",
+    "name": "Monitoring & Logs",
+    "icon": "pulse"
+  },
+  {
+    "slug": "analytics",
+    "name": "Analytics",
+    "icon": "chart-bar"
+  },
+  {
+    "slug": "marketing-and-email",
+    "name": "Marketing & Email",
+    "icon": "megaphone"
+  },
+  {
+    "slug": "sales-and-crm",
+    "name": "Sales & CRM",
+    "icon": "address-book"
+  },
+  {
+    "slug": "customer-support",
+    "name": "Customer Support",
+    "icon": "headset"
+  },
+  {
+    "slug": "finance-and-commerce",
+    "name": "Finance & Commerce",
+    "icon": "shopping-cart"
+  },
+  {
+    "slug": "security-and-identity",
+    "name": "Security & Identity",
+    "icon": "shield-check"
+  },
+  {
+    "slug": "files-and-storage",
+    "name": "Files & Storage",
+    "icon": "folders"
+  },
+  {
+    "slug": "websites-and-cms",
+    "name": "Websites & CMS",
+    "icon": "browser"
+  },
+  {
+    "slug": "everyday-apps",
+    "name": "Everyday Apps",
+    "icon": "device-mobile"
+  }
+]
