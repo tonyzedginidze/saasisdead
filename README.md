@@ -59,7 +59,7 @@ Read the [contributing guide](CONTRIBUTING.md) for what gets in. No time for a p
 
 - [Chat UI](https://github.com/huggingface/chat-ui) - The open source codebase powering HuggingChat.
 - [Chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client. Also replaces Claude.
-- [LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral. Also replaces Poe, Chatbase, Tidio.
+- [LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral. Also replaces Claude, Gemini, Grok, Poe, T3 Chat, TypingMind, Chatbase, Tidio.
 - [SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
 
 ### <img src="assets/logos/claude.svg" width="22" height="22" alt="">&nbsp; Claude
@@ -70,7 +70,6 @@ Read the [contributing guide](CONTRIBUTING.md) for what gets in. No time for a p
 - [Cherry Studio](https://github.com/cherryhq/cherry-studio) - Multi-model AI desktop client with local-first privacy. Also replaces ChatGPT, LM Studio, TypingMind, Poe, T3 Chat.
 - [Jan](https://github.com/janhq/jan) - Run AI models locally or connect to cloud, privately. Also replaces ChatGPT, Gemini, Grok, LM Studio, TypingMind, Poe, T3 Chat.
 - [Khoj](https://github.com/khoj-ai/khoj) - AI second brain for research, automation, and personal agents. Also replaces ChatGPT, Perplexity, NotebookLM.
-- [LibreChat](https://github.com/danny-avila/librechat) - One interface for all your AI models and conversations. Also replaces ChatGPT, Gemini, Grok, TypingMind, Poe, T3 Chat.
 - [LobeChat](https://github.com/lobehub/lobehub) - Manage, build, and run AI agent teams around the clock. Also replaces ChatGPT, Gemini, Claude Cowork, TypingMind, Poe, Manus, T3 Chat.
 - [Morphic](https://github.com/miurla/morphic) - AI-powered answer engine with dynamic interface generation. Also replaces ChatGPT, Perplexity, v0.
 - [omnara](https://github.com/omnara-ai/omnara) - The open-source managed agent platform. A self-hostable alternative to Claude Managed Agents and OpenAI's Agents API.
