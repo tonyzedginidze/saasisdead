@@ -3,6 +3,7 @@
 # Text is converted to outlines (Archivo + Geist, the website's fonts), so the
 # SVGs render the same everywhere GitHub shows them.
 import json, re
+from html import escape
 from pathlib import Path
 from fontTools.ttLib import TTFont
 from fontTools.pens.svgPathPen import SVGPathPen
@@ -55,7 +56,7 @@ def place(svg_text, x, y, w=None, h=None):
 
 def wrap(w, h, content, title, panel=True):
     bg = f'<rect x="1" y="1" width="{w-2}" height="{h-2}" rx="16" fill="{PANEL}" stroke="{LINE}" stroke-width="2"/>' if panel else ""
-    return f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {w} {h}" width="{w}" height="{h}" role="img"><title>{title}</title>{bg}{content}</svg>\n'
+    return f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {w} {h}" width="{w}" height="{h}" role="img"><title>{escape(title)}</title>{bg}{content}</svg>\n'
 
 def save(rel, data):
     p = OUT / rel

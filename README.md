@@ -48,18 +48,18 @@ Read the [contributing guide](CONTRIBUTING.md) for what gets in. No time for a p
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/braintrust-dark.svg"><img src="assets/logos/braintrust.svg" width="22" height="22" alt=""></picture>&nbsp; Braintrust
 
 - [DeepEval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework. Also replaces Galileo.
-- [Opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and…. Also replaces LangSmith.
+- [Opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and. Also replaces LangSmith.
 
 ### <img src="assets/logos/chatbase.png" width="22" height="22" alt="">&nbsp; Chatbase
 
-- [LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台/ Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram /…. Also replaces Tidio.
+- [LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台/ Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram /. Also replaces Tidio.
 - [Pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice agents, multimodal apps, and realtime AI. Maintained by Daily and the community.
 
 ### <img src="assets/logos/chatgpt.svg" width="22" height="22" alt="">&nbsp; ChatGPT
 
 - [Chat UI](https://github.com/huggingface/chat-ui) - The open source codebase powering HuggingChat.
 - [Chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client. Also replaces Claude.
-- [LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral,…. Also replaces Poe, Chatbase, Tidio.
+- [LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral. Also replaces Poe, Chatbase, Tidio.
 - [SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
 
 ### <img src="assets/logos/claude.svg" width="22" height="22" alt="">&nbsp; Claude
@@ -104,13 +104,13 @@ Read the [contributing guide](CONTRIBUTING.md) for what gets in. No time for a p
 - [Agenta](https://github.com/agenta-ai/agenta) - Build, automate, and improve AI agents with your team. Also replaces Lindy.
 - [AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜. Also replaces Manus.
 - [kuse_cowork](https://github.com/kuse-ai/kuse_cowork) - Open-source Alternative to Claude Cowork Desktop App By Kuse.
-- [open-dots](https://github.com/Anil-matcha/open-dots) - Open-source, self-hosted alternative to Claude Duet: AI coworkers (named agents) with instructions, memory, routines, their own isolated computer,…. Also replaces Grok.
+- [open-dots](https://github.com/Anil-matcha/open-dots) - Open-source, self-hosted alternative to Claude Duet: AI coworkers (named agents) with instructions, memory, routines, their own isolated computer. Also replaces Grok.
 
 ### <img src="assets/logos/cluely.png" width="22" height="22" alt="">&nbsp; Cluely
 
 - [cue](https://github.com/Blueturboguy07/cue) - Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares.
 - [natively-cluely-ai-assistant](https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant) - Natively — Free open-source AI meeting assistant, interview copilot, and note taker. Also replaces Otter.ai, Granola, Fireflies.ai.
-- [pluely](https://github.com/iamsrikanthnani/pluely) - The Open Source Alternative to Cluely - A lightning-fast, privacy-first AI assistant that works seamlessly during meetings, interviews, and….
+- [pluely](https://github.com/iamsrikanthnani/pluely) - The Open Source Alternative to Cluely - A lightning-fast, privacy-first AI assistant that works seamlessly during meetings, interviews, and.
 
 ### <img src="assets/logos/coderabbit.svg" width="22" height="22" alt="">&nbsp; CodeRabbit
 
@@ -135,9 +135,9 @@ Read the [contributing guide](CONTRIBUTING.md) for what gets in. No time for a p
 - [IndexTTS](https://github.com/index-tts/index-tts) - An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System.
 - [OmniVoice](https://github.com/k2-fsa/OmniVoice) - High-Quality Voice Cloning TTS for 600+ Languages.
 - [Piper](https://github.com/OHF-Voice/piper1-gpl) - Fast and local neural text-to-speech engine.
-- [Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) - An open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation,….
+- [Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) - An open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation.
 - [Voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
-- [VoiceStudio](https://github.com/debpalash/VoiceStudio) - The open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in….
+- [VoiceStudio](https://github.com/debpalash/VoiceStudio) - The open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in.
 - [VoxCPM](https://github.com/OpenBMB/VoxCPM) - VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning.
 
 ### Fireflies.ai
@@ -148,9 +148,9 @@ Read the [contributing guide](CONTRIBUTING.md) for what gets in. No time for a p
 
 - [banana-slides](https://github.com/Anionex/banana-slides) - 一站式原生AI PPT生成应用，几分钟内生成一套幻灯片; 支持上传任意模板图片，上传任意素材&智能解析，一句话/大纲/页面描述自动生成PPT，口头修改指定区域、一键导出可编辑ppt、视频等 - An AI-native slides generator based on nano banana/gpt-image.
 - [Codex PPT Skill](https://github.com/ningzimu/codex-ppt-skill) - GPT-Image-2 PPT Generator Skill for Creating Image-Based PowerPoint Presentations in Codex and Other Skill-Compatible Agents.
-- [GenOffice](https://github.com/genspark-ai/genoffice) - Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a `genoffice` CLI and agent…. Also replaces Canva, Microsoft 365, Google Workspace.
+- [GenOffice](https://github.com/genspark-ai/genoffice) - Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a `genoffice` CLI and agent. Also replaces Canva, Microsoft 365, Google Workspace.
 - [oh-my-ppt](https://github.com/arcsin1/oh-my-ppt) - Describe what you need — a presentation, lesson, or story — and let the AI build clean, beautiful HTML slides for you.
-- [PPT Master](https://github.com/hugohe3/ppt-master) - AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on….
+- [PPT Master](https://github.com/hugohe3/ppt-master) - AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on.
 - [PPTAgent](https://github.com/icip-cas/PPTAgent) - An Agentic Framework for Reflective PowerPoint Generation.
 - [Presentation AI](https://github.com/allweonedev/presentation-ai) - ALLWEONE Open source AI presentation generator Gamma Alternative.
 - [Presenton](https://github.com/presenton/presenton) - Open-Source AI Presentation Generator and API (Gamma, Canva, Beautiful AI, Decktopus, Presentations AI Alternative). Also replaces Canva.
@@ -168,7 +168,7 @@ Read the [contributing guide](CONTRIBUTING.md) for what gets in. No time for a p
 - [Hermes Agent](https://github.com/nousresearch/hermes-agent) - Desktop AI agent with persistent memory across platforms. Also replaces Lindy, Manus.
 - [MausBot](https://github.com/milind-soni/OpenMausBot) - A team of AI agents in a chat app, on your own machine.
 - [NanoClaw](https://github.com/nanocoai/nanoclaw) - Personal AI agent for messaging apps, containerized.
-- [open-duet](https://github.com/Anil-matcha/open-duet) - Open-source, self-hosted alternative to Claude Duet: AI coworkers (named agents) with instructions, memory, routines, their own isolated computer,…. Also replaces ChatGPT, Claude, Manus.
+- [open-duet](https://github.com/Anil-matcha/open-duet) - Open-source, self-hosted alternative to Claude Duet: AI coworkers (named agents) with instructions, memory, routines, their own isolated computer. Also replaces ChatGPT, Claude, Manus.
 - [OpenBot](https://github.com/CopilotKit/openbot) - Self-hosted enterprise agent platform with real permissions.
 - [OpenClaw](https://github.com/openclaw/openclaw) - An AI assistant that acts, not just answers. Also replaces Manus, Claude Cowork.
 - [OpenWork](https://github.com/different-ai/openwork) - Multi-model AI workspace with org-wide skill sharing. Also replaces Claude Cowork.
@@ -203,7 +203,7 @@ Read the [contributing guide](CONTRIBUTING.md) for what gets in. No time for a p
 
 - [bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want! Also replaces v0.
 - [Dyad](https://github.com/dyad-sh/dyad) - Build unlimited AI apps locally with zero vendor lock-in. Also replaces v0.
-- [Onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best,…. Also replaces v0.
+- [Onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best. Also replaces v0.
 - [Open Lovable](https://github.com/firecrawl/open-lovable) - Clone and recreate any website as a modern React app in seconds.
 - [Reflex](https://github.com/reflex-dev/reflex) - Full-stack Python platform for web apps and internal tools. Also replaces v0.
 
@@ -212,7 +212,7 @@ Read the [contributing guide](CONTRIBUTING.md) for what gets in. No time for a p
 - [Agent Zero](https://github.com/agent0ai/agent-zero) - Agentic AI framework that runs, learns, and self-corrects. Also replaces Claude Cowork.
 - [IronClaw](https://github.com/nearai/ironclaw) - AI agent runtime with encrypted enclaves for your secrets.
 - [Kortix](https://github.com/kortix-ai/suna) - AI workforce platform where agents, skills, and memory live in your repo.
-- [lemonai](https://github.com/hexdocom/lemonai) - Lemon AI is the first Full-stack Open-source Self-Evolving General AI Agent, offering a fully local alternative to Agentic platforms like Manus &….
+- [lemonai](https://github.com/hexdocom/lemonai) - Lemon AI is the first Full-stack Open-source Self-Evolving General AI Agent, offering a fully local alternative to Agentic platforms like Manus &.
 - [nanobot](https://github.com/HKUDS/nanobot) - Self-hosted AI agent for chat, automation, and workflows.
 - [ZeroClaw](https://github.com/zeroclaw-labs/zeroclaw) - Self-hosted AI agent with 70+ providers and 30+ channels.
 
@@ -220,13 +220,13 @@ Read the [contributing guide](CONTRIBUTING.md) for what gets in. No time for a p
 
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
 - [ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world. Also replaces Leonardo AI, Runway.
-- [InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual…. Also replaces Leonardo AI.
+- [InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual. Also replaces Leonardo AI.
 - [Krita AI Diffusion](https://github.com/Acly/krita-ai-diffusion) - Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required. Also replaces Leonardo AI.
-- [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling,…. Also replaces Leonardo AI, Runway.
+- [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling. Also replaces Leonardo AI, Runway.
 - [Pollinations](https://github.com/pollinations/pollinations) - Your Friendly Open-Source Gen-AI Platform.
 - [SD.Next](https://github.com/vladmandic/sdnext) - All-in-one WebUI for AI generative image and video creation, captioning and processing.
 - [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI.
-- [SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) - SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high…. Also replaces Leonardo AI.
+- [SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) - SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high. Also replaces Leonardo AI.
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/notebooklm-dark.svg"><img src="assets/logos/notebooklm.svg" width="22" height="22" alt=""></picture>&nbsp; NotebookLM
 
@@ -235,8 +235,8 @@ Read the [contributing guide](CONTRIBUTING.md) for what gets in. No time for a p
 - [LightRAG](https://github.com/HKUDS/LightRAG) - [EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation.
 - [notebookllama](https://github.com/run-llama/notebookllama) - A fully open-source, LlamaCloud-backed alternative to NotebookLM.
 - [Open-Notebook](https://github.com/lfnovo/open-notebook) - AI-powered research notebook with full privacy control. Also replaces Roam Research.
-- [Podcastfy](https://github.com/souzatharsis/podcastfy) - An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio….
-- [RAGFlow](https://github.com/infiniflow/ragflow) - A leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context….
+- [Podcastfy](https://github.com/souzatharsis/podcastfy) - An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio.
+- [RAGFlow](https://github.com/infiniflow/ragflow) - A leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context.
 - [SurfSense](https://github.com/modsetter/surfsense) - Privacy-first knowledge base with any AI model you choose. Also replaces Perplexity.
 
 ### <img src="assets/logos/openai-codex.png" width="22" height="22" alt="">&nbsp; OpenAI Codex
@@ -406,7 +406,7 @@ Read the [contributing guide](CONTRIBUTING.md) for what gets in. No time for a p
 - [ElyOffice](https://github.com/ELY-Open-Source/ElyOffice) - Ely Office: offline-first desktop apps in Rust and GPUI.
 - [Euro-Office](https://github.com/Euro-Office/DocumentServer) - 
 - [GridCraft](https://github.com/storytold/gridcraft) - An open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.
-- [ONLYOFFICE Desktop](https://github.com/ONLYOFFICE/DesktopEditors) - Open-source office suite pack that comprises all the tools you need to work with documents, spreadsheets, presentations, PDFs, and PDF forms on…. Also replaces PDF-XChange Editor.
+- [ONLYOFFICE Desktop](https://github.com/ONLYOFFICE/DesktopEditors) - Open-source office suite pack that comprises all the tools you need to work with documents, spreadsheets, presentations, PDFs, and PDF forms on. Also replaces PDF-XChange Editor.
 - [ONLYOFFICE Docs](https://github.com/onlyoffice/documentserver) - Complete office suite for documents, spreadsheets & more. Also replaces Google Workspace, Superhuman Docs.
 - [VibeOffice](https://github.com/tcchen2026/VibeOffice) - A free office suite that runs in your browser, in the 2000s style.
 
@@ -858,7 +858,7 @@ Read the [contributing guide](CONTRIBUTING.md) for what gets in. No time for a p
 
 ### <img src="assets/logos/postman.svg" width="22" height="22" alt="">&nbsp; Postman
 
-- [API Dash](https://github.com/foss42/apidash) - A beautiful AI-powered open-source cross-platform (Desktop & Mobile) API Client built using Flutter which can help you easily create & customize….
+- [API Dash](https://github.com/foss42/apidash) - A beautiful AI-powered open-source cross-platform (Desktop & Mobile) API Client built using Flutter which can help you easily create & customize.
 - [Bruno](https://github.com/usebruno/bruno) - Lightweight, fast, and open-source API client for developers. Also replaces Apidog, Kreya, Testfully.
 - [Firecamp](https://github.com/firecamp-dev/firecamp) - Unified API development ecosystem for modern teams. Also replaces Testfully.
 - [Fusio](https://github.com/apioo/fusio) - API management platform for developers and AI agents.
@@ -909,7 +909,7 @@ Read the [contributing guide](CONTRIBUTING.md) for what gets in. No time for a p
 - [Aspia](https://github.com/dchapyshev/aspia) - Remote desktop and file transfer tool. Also replaces AnyDesk.
 - [CrossDesk](https://github.com/kunkundi/crossdesk) - A lightweight, cross-platform remote desktop software with support for Web Client access | 一款支持 Web 客户端访问的轻量级跨平台远程桌面软件。.
 - [MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Also replaces AnyDesk.
-- [QuickDesk](https://github.com/barry-ran/QuickDesk) - The first AI-native remote desktop — an open-source, free application with a built-in MCP (Model Context Protocol) Server that lets any AI agent….
+- [QuickDesk](https://github.com/barry-ran/QuickDesk) - The first AI-native remote desktop — an open-source, free application with a built-in MCP (Model Context Protocol) Server that lets any AI agent.
 - [Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight. Also replaces AnyDesk.
 - [TigerVNC](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server. Also replaces AnyDesk.
 - [xrdp](https://github.com/neutrinolabs/xrdp) - An open source RDP server.
@@ -932,7 +932,7 @@ Read the [contributing guide](CONTRIBUTING.md) for what gets in. No time for a p
 ### <img src="assets/logos/warp.svg" width="22" height="22" alt="">&nbsp; Warp
 
 - [Alacritty](https://github.com/alacritty/alacritty) - High-performance terminal with GPU acceleration.
-- [Chaterm](https://github.com/chaterm/Chaterm) - Open source AI terminal for cloud and infrastructure management, enabling you to deploy, troubleshoot, and automate services using natural…. Also replaces Termius.
+- [Chaterm](https://github.com/chaterm/Chaterm) - Open source AI terminal for cloud and infrastructure management, enabling you to deploy, troubleshoot, and automate services using natural. Also replaces Termius.
 - [Ghostty](https://github.com/ghostty-org/ghostty) - Fast GPU-accelerated terminal with native UI design.
 - [Hyper](https://github.com/vercel/hyper) - A terminal built on web technologies.
 - [iTerm 2](https://github.com/gnachman/iterm2) - Advanced terminal with modern features for Mac developers.
@@ -954,8 +954,8 @@ Read the [contributing guide](CONTRIBUTING.md) for what gets in. No time for a p
 - [Ceph](https://github.com/ceph/ceph) - Scalable open-source distributed storage system. Also replaces Cloudflare R2, Google Cloud Storage.
 - [Garage](https://github.com/deuxfleurs-org/garage) - Lightweight distributed storage for self-hosting. Also replaces Google Cloud Storage.
 - [JuiceFS](https://github.com/juicedata/juicefs) - A distributed POSIX file system built on top of Redis and S3. Also replaces Dropbox.
-- [RustFS](https://github.com/rustfs/rustfs) - An open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such….
-- [SeaweedFS](https://github.com/seaweedfs/seaweedfs) - A distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access….
+- [RustFS](https://github.com/rustfs/rustfs) - An open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such.
+- [SeaweedFS](https://github.com/seaweedfs/seaweedfs) - A distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access.
 - [SlateDB](https://github.com/slatedb/slatedb) - Embedded storage engine built on object storage. Also replaces Cloudflare R2, Google Cloud Storage, PlanetScale.
 - [Storj](https://github.com/storj/storj) - Secure, decentralized cloud storage for your data. Also replaces Cloudflare R2, Google Cloud Storage.
 
@@ -1205,7 +1205,7 @@ Read the [contributing guide](CONTRIBUTING.md) for what gets in. No time for a p
 
 - [dataease](https://github.com/dataease/dataease) - 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau. Also replaces Power BI.
 - [graphic-walker](https://github.com/Kanaries/graphic-walker) - An open source alternative to Tableau. Embeddable visual analytic.
-- [Helical Insight](https://github.com/helicalinsight/helicalinsight) - Free, open source BI platform with AI conversational analytics (BYO-LLM), pixel-perfect paginated reports, interactive dashboards, SSO, embedding,…. Also replaces Power BI.
+- [Helical Insight](https://github.com/helicalinsight/helicalinsight) - Free, open source BI platform with AI conversational analytics (BYO-LLM), pixel-perfect paginated reports, interactive dashboards, SSO, embedding. Also replaces Power BI.
 - [Kibana](https://github.com/elastic/kibana) - Your window into all of your data.
 - [Rill](https://github.com/rilldata/rill) - The fastest business intelligence tool for humans and agents. Also replaces Power BI.
 
@@ -1262,7 +1262,7 @@ Read the [contributing guide](CONTRIBUTING.md) for what gets in. No time for a p
 
 ### <img src="assets/logos/mailgun.svg" width="22" height="22" alt="">&nbsp; Mailgun
 
-- [posta](https://github.com/goposta/posta) - Self-hosted email delivery platform that enables applications to send emails via HTTP APIs while handling SMTP delivery, templates, storage,…. Also replaces SendGrid, Postmark.
+- [posta](https://github.com/goposta/posta) - Self-hosted email delivery platform that enables applications to send emails via HTTP APIs while handling SMTP delivery, templates, storage. Also replaces SendGrid, Postmark.
 
 ### <img src="assets/logos/manychat.png" width="22" height="22" alt="">&nbsp; ManyChat
 
@@ -1297,7 +1297,7 @@ Read the [contributing guide](CONTRIBUTING.md) for what gets in. No time for a p
 ### <img src="assets/logos/surveymonkey.svg" width="22" height="22" alt="">&nbsp; SurveyMonkey
 
 - [SurveyKing](https://github.com/javahuang/SurveyKing) - One command to deploy a more powerful, self‑hosted alternative to SurveyMonkey.
-- [Xiaoju Survey](https://github.com/didi/xiaoju-survey) - XIAOJUSURVEY is an enterprises form builder and analytics platform that allows users to create questionnaires, exams, polls, quizzes, and analyze…. Also replaces Qualtrics.
+- [Xiaoju Survey](https://github.com/didi/xiaoju-survey) - XIAOJUSURVEY is an enterprises form builder and analytics platform that allows users to create questionnaires, exams, polls, quizzes, and analyze. Also replaces Qualtrics.
 
 <sub>[Back to contents](#contents)</sub>
 
@@ -1336,7 +1336,7 @@ Read the [contributing guide](CONTRIBUTING.md) for what gets in. No time for a p
 
 ### <img src="assets/logos/freshdesk.png" width="22" height="22" alt="">&nbsp; Freshdesk
 
-- [UVdesk](https://github.com/uvdesk/community-skeleton) - UVdesk Open Source Community Helpdesk is a comprehensive ticketing support system designed for everyone, offering robust features to streamline…. Also replaces Zendesk.
+- [UVdesk](https://github.com/uvdesk/community-skeleton) - UVdesk Open Source Community Helpdesk is a comprehensive ticketing support system designed for everyone, offering robust features to streamline. Also replaces Zendesk.
 
 ### <img src="assets/logos/help-scout.svg" width="22" height="22" alt="">&nbsp; Help Scout
 
@@ -1459,7 +1459,7 @@ Read the [contributing guide](CONTRIBUTING.md) for what gets in. No time for a p
 
 ### <img src="assets/logos/xero.svg" width="22" height="22" alt="">&nbsp; Xero
 
-- [Dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks,…. Also replaces QuickBooks, Salesforce, Zoho CRM.
+- [Dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks. Also replaces QuickBooks, Salesforce, Zoho CRM.
 
 ### <img src="assets/logos/ynab.svg" width="22" height="22" alt="">&nbsp; YNAB
 
@@ -1484,7 +1484,7 @@ Read the [contributing guide](CONTRIBUTING.md) for what gets in. No time for a p
 - [Bitwarden](https://github.com/bitwarden/server) - Secure password management for individuals and businesses. Also replaces LastPass, Keeper, Doppler, Enpass, Dashlane.
 - [Cozy](https://github.com/cozy/cozy-stack) - Your secure French personal cloud for complete data control. Also replaces LastPass, Keeper, Tresorit, Dashlane.
 - [HashiCorp Vault](https://github.com/hashicorp/vault) - Secure storage and access control for secrets and sensitive data. Also replaces Keeper, Doppler.
-- [KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the…. Also replaces LastPass.
+- [KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the. Also replaces LastPass.
 - [KeePassXC](https://github.com/keepassxreboot/keepassxc) - Cross-platform, secure password manager. Also replaces LastPass, Keeper, Enpass, Dashlane.
 - [KeeWeb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass. Also replaces LastPass.
 - [MacPass](https://github.com/MacPass/MacPass) - A native macOS KeePass client. Also replaces LastPass.
@@ -1499,7 +1499,7 @@ Read the [contributing guide](CONTRIBUTING.md) for what gets in. No time for a p
 - [Authentik](https://github.com/goauthentik/authentik) - Take control of your identity with a secure, flexible solution. Also replaces Clerk, Okta, WorkOS, Amazon Cognito, Stytch, Frontegg.
 - [Authgear](https://github.com/authgear/authgear-server) - Managed identity and access management for any app. Also replaces Clerk, Okta, WorkOS, Amazon Cognito, Stytch.
 - [Better Auth](https://github.com/better-auth/better-auth) - Framework-agnostic authentication for TypeScript applications. Also replaces Clerk, Okta, WorkOS, Amazon Cognito, Stytch.
-- [Casdoor](https://github.com/casdoor/casdoor) - An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP,….
+- [Casdoor](https://github.com/casdoor/casdoor) - An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP.
 - [Cerbos](https://github.com/cerbos/cerbos) - Secure, policy-based access control for modern applications. Also replaces Okta, WorkOS, Amazon Cognito.
 - [hanko](https://github.com/teamhanko/hanko) - Modern authentication, on your terms. Open source alternative to Auth0, Clerk, WorkOS, Stytch. Also replaces Clerk, WorkOS, Stytch.
 - [Hexclave](https://github.com/hexclave/hexclave) - Modular auth, payments, emails, and analytics for your product. Also replaces Clerk, Okta, WorkOS, Amazon Cognito, Stytch.
@@ -1514,7 +1514,7 @@ Read the [contributing guide](CONTRIBUTING.md) for what gets in. No time for a p
 
 ### <img src="assets/logos/aws-secrets-manager.png" width="22" height="22" alt="">&nbsp; AWS Secrets Manager
 
-- [External Secrets Operator](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes….
+- [External Secrets Operator](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes.
 - [SOPS](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets. Also replaces Doppler.
 
 ### <img src="assets/logos/expressvpn.svg" width="22" height="22" alt="">&nbsp; ExpressVPN
@@ -1565,7 +1565,7 @@ Read the [contributing guide](CONTRIBUTING.md) for what gets in. No time for a p
 
 ### <img src="assets/logos/wiz.png" width="22" height="22" alt="">&nbsp; Wiz
 
-- [Checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages…. Also replaces Snyk.
+- [Checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages. Also replaces Snyk.
 - [kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark.
 
 <sub>[Back to contents](#contents)</sub>
@@ -1793,7 +1793,7 @@ Read the [contributing guide](CONTRIBUTING.md) for what gets in. No time for a p
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/hevy-dark.svg"><img src="assets/logos/hevy.svg" width="22" height="22" alt=""></picture>&nbsp; Hevy
 
-- [openGym](https://github.com/DuarteSantos8/openGym) - Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or….
+- [openGym](https://github.com/DuarteSantos8/openGym) - Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or.
 - [SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness) - Built for Families. Powered by AI. Track food, fitness, water, and health — together.
 - [wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker.
 
@@ -1822,7 +1822,7 @@ Read the [contributing guide](CONTRIBUTING.md) for what gets in. No time for a p
 
 ### <img src="assets/logos/pdf-xchange-editor.png" width="22" height="22" alt="">&nbsp; PDF-XChange Editor
 
-- [PDF4QT](https://github.com/jakubmelka/pdf4qt) - An open-source PDF toolkit for Windows and Linux, combining powerful desktop applications, command-line tools and a modern MIT-licensed C++/Qt PDF…. Also replaces Adobe Acrobat.
+- [PDF4QT](https://github.com/jakubmelka/pdf4qt) - An open-source PDF toolkit for Windows and Linux, combining powerful desktop applications, command-line tools and a modern MIT-licensed C++/Qt PDF. Also replaces Adobe Acrobat.
 
 ### <img src="assets/logos/pocket-casts.svg" width="22" height="22" alt="">&nbsp; Pocket Casts
 
@@ -1832,7 +1832,7 @@ Read the [contributing guide](CONTRIBUTING.md) for what gets in. No time for a p
 
 ### <img src="assets/logos/spotify.svg" width="22" height="22" alt="">&nbsp; Spotify
 
-- [Ampache](https://github.com/ampache/ampache) - A web based audio/video streaming application and file manager allowing you to access your music & videos from anywhere, using almost any internet…. Also replaces Apple Music.
+- [Ampache](https://github.com/ampache/ampache) - A web based audio/video streaming application and file manager allowing you to access your music & videos from anywhere, using almost any internet. Also replaces Apple Music.
 - [Feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player.
 - [Finamp](https://github.com/finamp-app/finamp) - An open source music player made for Jellyfin. Also replaces Apple Music.
 - [Gonic](https://github.com/sentriz/gonic) - Music streaming server / free-software subsonic server API implementation. Also replaces Apple Music.
@@ -1848,7 +1848,7 @@ Read the [contributing guide](CONTRIBUTING.md) for what gets in. No time for a p
 - [Beaver Habits](https://github.com/daya0576/beaverhabits) - A self-hosted habit tracking app without "Goals".
 - [Habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
 - [Loop Habit Tracker](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits.
-- [mHabit](https://github.com/FriesI23/mhabit) - Open-source Flutter habit tracker with smart scoring, WebDAV sync, local-first storage, privacy-focused design, and support for Android, iOS,….
+- [mHabit](https://github.com/FriesI23/mhabit) - Open-source Flutter habit tracker with smart scoring, WebDAV sync, local-first storage, privacy-focused design, and support for Android, iOS.
 
 ### <img src="assets/logos/wanderlog.png" width="22" height="22" alt="">&nbsp; Wanderlog
 

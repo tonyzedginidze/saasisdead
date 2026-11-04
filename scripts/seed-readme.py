@@ -23,6 +23,7 @@ def anchor(h):
 def clean(s):
     s = re.sub(r"\s+", " ", (s or "").strip())
     s = re.sub(r"[\U0001F000-\U0001FFFF☀-➿️]", "", s).strip()
+    s = re.sub(r"(\.\.\.|…)$", "", s).rstrip(" ,;:")
     if s and s[-1] not in ".!?":
         s += "."
     return s[:1].upper() + s[1:]
