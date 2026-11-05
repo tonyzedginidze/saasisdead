@@ -1104,6 +1104,7 @@ Read the [contributing guide](CONTRIBUTING.md) for what gets in. No time for a p
 
 ### <img src="assets/logos/splunk.svg" width="22" height="22" alt="">&nbsp; Splunk
 
+- [Apache Pinot](https://github.com/apache/pinot) - Distributed OLAP database for real-time analytics at scale. Also replaces Snowflake, BigQuery, Amazon Redshift, Elastic Cloud, Axiom, Sumo Logic, Logz.io, Coralogix, Pinecone.
 - [Coroot](https://github.com/coroot/coroot) - Full-stack observability without code changes. Also replaces New Relic, Dynatrace, Dash0, Honeycomb, AppDynamics, Axiom, Datadog.
 - [Graylog](https://github.com/Graylog2/graylog2-server) - Free and open log management.
 - [Tracecat](https://github.com/TracecatHQ/tracecat) - Open source security automation platform for builders.
@@ -1191,7 +1192,6 @@ Read the [contributing guide](CONTRIBUTING.md) for what gets in. No time for a p
 
 - [Activeloop](https://github.com/activeloopai/deeplake) - The tensor database for AI data. Also replaces BigQuery, Pinecone.
 - [Apache Druid](https://github.com/apache/druid) - Real-time analytics database for sub-second OLAP queries. Also replaces BigQuery, Amazon Redshift.
-- [Apache Pinot](https://github.com/apache/pinot) - Distributed OLAP database for low-latency, real-time SQL analytics on streaming and batch data. Also replaces BigQuery, Amazon Redshift, Splunk.
 - [ClickHouse](https://github.com/ClickHouse/ClickHouse) - Lightning-fast analytics for massive datasets. Also replaces BigQuery, Amazon Redshift, Splunk.
 - [CloudQuery](https://github.com/cloudquery/cloudquery) - Sync and transform data from any source to any destination. Also replaces BigQuery, Segment, Fivetran, Matillion.
 - [CrateDB](https://github.com/crate/crate) - Scalable SQL database for real-time analytics. Also replaces BigQuery, Amazon Redshift, PlanetScale.
