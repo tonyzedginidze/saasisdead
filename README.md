@@ -1104,7 +1104,7 @@ Read the [contributing guide](CONTRIBUTING.md) for what gets in. No time for a p
 
 ### <img src="assets/logos/splunk.svg" width="22" height="22" alt="">&nbsp; Splunk
 
-- [Apache Pinot](https://github.com/apache/pinot) - Distributed OLAP database for real-time analytics at scale.
+- [Apache Pinot](https://github.com/apache/pinot) - Distributed OLAP database for real-time analytics at scale. Also replaces Snowflake, BigQuery, Amazon Redshift, Elastic Cloud, Axiom, Sumo Logic, Logz.io, Coralogix, Pinecone.
 - [Coroot](https://github.com/coroot/coroot) - Full-stack observability without code changes. Also replaces New Relic, Dynatrace, Dash0, Honeycomb, AppDynamics, Axiom, Datadog.
 - [Graylog](https://github.com/Graylog2/graylog2-server) - Free and open log management.
 - [Tracecat](https://github.com/TracecatHQ/tracecat) - Open source security automation platform for builders.
